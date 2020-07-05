@@ -5,7 +5,7 @@ this website is a Reading notes repo to hold my 201 reading notes
 | Task  |  Link |
 |---|---|
 | Introductory HTML and JavaScript | [Read 1](https://othabteh.github.io/reading-notes/class-01)  |
-| Read2  | [Read 2]() |
+|HTML Text, CSS Introduction, and Basic JavaScript Instructions | [Read 2](https://othabteh.github.io/reading-notes/class-02) |
 | Read3  | [Read 3]() |
 | Read4  |[Read 4]()|
 | Read5  |[Read 5]()|
