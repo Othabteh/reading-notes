@@ -25,7 +25,7 @@ Opacity allows us to specify the opacity of an element. RGBA allows us to specif
 
 ## HTML Chapter 12 *(Text)*
 
-![Typeface Terminology](img/typeface.PNG "Type Face")
+![Typeface Terminology](img/typeface.png "Type Face")
 
 When choosing a typeface, it is important to understand that the browser will usually only display it if it's installed on the user's computer. It is a good idea to add a generic font after your preferred choice. I.E. font-family: Georgia, Times, serif;
 
@@ -38,4 +38,4 @@ This property enables us to specify the size for the font. You can use:
 
   ### Units of type size
 
-  ![Units of Type Size](img/typesize.PNG "Type Size")
+  ![Units of Type Size](img/typesize.png "Type Size")
