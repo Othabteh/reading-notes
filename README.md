@@ -9,7 +9,7 @@ this website is a Reading notes repo to hold my 201 reading notes
 | HTML Lists, CSS Boxes, JS Control Flow | [Read 3](https://othabteh.github.io/reading-notes/class-03) |
 | HTML Links, CSS Layout, JS Functions |[Read 4](https://othabteh.github.io/reading-notes/class-04)|
 | HTML Images; CSS Color & Text  |[Read 5]( https://othabteh.github.io/reading-notes/class-05)|
-| Read6  |[Read 6]()|
+| JS Object Literals; The DOM  |[Read 6](https://othabteh.github.io/reading-notes/class-06)|
 | Read7  |[Read 7]()|
 | Read8  |[Read 8]()|
 | Read9  |[Read 9]()|
