@@ -51,4 +51,4 @@ Events are the browser's way of indicating when something has happened. When an 
 
 HTML elements nest insie other elements. If you hover or click on a link, you will also be hovering or clicking on its parent elements. 
 
-![Units of Type Size](img/Events.PNG)
+![Units of Type Size](img/Events.png)
