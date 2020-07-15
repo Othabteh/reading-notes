@@ -13,7 +13,7 @@ this website is a Reading notes repo to hold my 201 reading notes
 | HTML Tables; JS Constructor Functions  |[Read 7](https://othabteh.github.io/reading-notes/class-07)|
 | More CSS Layout  |[Read 8](https://othabteh.github.io/reading-notes/class-08)|
 |  Forms and Events  |[Read 9](https://othabteh.github.io/reading-notes/class-09)|
-| JS Debugging |[Read 10]()|
+| JS Debugging |[Read 10](https://othabteh.github.io/reading-notes/class-10)|
 | Read11 |[Read 11]()|
 | Read12 |[Read 12]()|
 | Read13 |[Read 13]()|
