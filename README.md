@@ -18,5 +18,5 @@ this website is a Reading notes repo to hold my 201 reading notes
 |  Docs for the HTML < canvas> Element & Chart.js |[Read 12](https://othabteh.github.io/reading-notes/class-12)|
 | Local Storage |[Read 13](https://othabteh.github.io/reading-notes/class-13)|
 | CSS Transforms, Transitions, and Animations |[Read 14a](https://othabteh.github.io/reading-notes/class-14a)|
-| Read14b |[Read 14b]()|
+| What Google Learned About Teams |[Read 14b](https://othabteh.github.io/reading-notes/class-14b)|
 | Read15 |[Read 15]()|
